@@ -1,0 +1,6 @@
+700,  Ciencias Naturales - Crecemos J., 75
+800,  Matematica - Aprendemos, 99
+500, has Holaa., 69.9
+450, Ciencias Naturales - Crecemos J., 115.5
+2, 1, 3, 5, 7, 4, 6
+2450
